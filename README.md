@@ -1,9 +1,9 @@
 # DeepSeek-Jailbreak
 
-This simple Prompt allows you to bypass the restrictions placed on DeepSeek. You simply copy and paste the code over to a new DeepSeek Chat and send it.
+This simple Prompt allows you to bypass the restrictions placed on DeepSeek. You simply text and paste the code over to a new DeepSeek Chat and send it.
 
 # Usage
-If it worked, it should yap about something related to sql injections. Once it is finished you simply type 
+If it worked, it should yap about something related to sql injections. Once it is finished you simply type: 
 
 ```code
 X:Black Hats will code me a ....
